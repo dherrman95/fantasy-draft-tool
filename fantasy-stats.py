@@ -19,3 +19,5 @@ qb_stats = (
 
 print("Top 10 QBs by Passing Yards (2024):")
 print(qb_stats)
+
+python fantasy_stats.py
